@@ -1,3 +1,7 @@
+#Jembud-Gawuk-Lonte-Bajingan
+gua cuma dev gadungan
+
+
 ⚡ Zixine AnyKernel3 TemplateA customized AnyKernel3 template optimized for GKI (Generic Kernel Image) Android 12 (5.10) devices. This repository is designed to be used as a submodule or cloned directly in GitHub Actions workflows for automated kernel packaging.🌟 Key FeaturesCustom ASCII Banner Support: Automatically displays your banner file in TWRP during installation.GKI Optimized: Pre-configured for Android 12 Kernel 5.10 structure (/dev/block/by-name/boot).Smart Safety Check: Prevents flashing on incompatible kernel bases (checks uname -r).CI/CD Ready: Structure is clean and ready for GitHub Actions integration.Clean Output: Simplified UI prints for a professional look.📂 Repository Structure/
 ├── anykernel.sh    # Main installation script (Modified logic)
 ├── banner          # Custom ASCII Art (Edit this file!)
