@@ -11,10 +11,10 @@ _______|__|__  __|__| ____   ____
                                   
            zixine-Elysium
 
- • Kernel Version  : 5.10.247
+ • Kernel Version  : 5.10.248 )update(
  • Android Base   : android12-5.10 (GKI)
- • Build Tool      : Clang 19
- • Support        : SukiSu Ultra
+ • Build Tool      : Clang 19 only
+ • Support        : GKI Kernel 12-5.10.xxx
  • susfs           : 2.0.0
  • Developer      : @zenixoooooo
 
@@ -25,5 +25,5 @@ _______|__|__  __|__| ____   ____
     
     
            >>>>>>>>>>
-    reboot
+    reboot lerr !
 
