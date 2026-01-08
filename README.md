@@ -18,7 +18,7 @@ Save the file.
 🚀 Usage in GitHub Actions
 - name: Package Kernel
  run: |
-   git clone --depth=1 https://github.com/Kingfinik98/Zixine-AnyKernel.git -b main anykernel
+   git clone --depth=1 https://github.com/Zixine-AnyKernel.git -b main anykernel
    cp out/arch/arm64/boot/Image anykernel/
    sed -i "s|kernel.string=.*|kernel.string=MyKernel-v1.0|g" anykernel/anykernel.sh
    cd anykernel
