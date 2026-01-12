@@ -13,8 +13,8 @@ _______|__|__  __|__| ____   ____
 
  • Kernel Version  : 5.10.247
  • Android Base   : android12-5.10 (GKI)
- • Build Tool      : Clang 19
- • Support        : SukiSu Ultra
+ • Build Tool      : Clang 19/20
+ • Support        : SusFSq
  • susfs           : 2.0.0
  • Developer      : @zenixoooooo
 
