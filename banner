@@ -11,10 +11,10 @@ _______|__|__  __|__| ____   ____
                                   
            zixine-Elysium
 
- • Kernel Version  : 5.10.247
+ • Kernel Version  : 5.10.245/246/247/248
  • Android Base   : android12-5.10 (GKI)
  • Build Tool      : Clang 19/20
- • Support        : SusFSq
+ • Support        : SusFS
  • susfs           : 2.0.0
  • Developer      : @zenixoooooo
 
