@@ -11,7 +11,7 @@ _______|__|__  __|__| ____   ____
                                   
            zixine-Elysium
 
- • Kernel Version  : 5.10.245/246/247/248
+ • Kernel Version  : 5.10.248
  • Android Base   : android12-5.10 (GKI)
  • Build Tool      : Clang 12 stable perf
  • Support        : SusFS
@@ -25,5 +25,30 @@ _______|__|__  __|__| ____   ____
     
     
            >>>>>>>>>>
-    reboot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
